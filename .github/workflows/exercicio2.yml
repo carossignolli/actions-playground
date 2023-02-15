@@ -1,6 +1,7 @@
 name: "exercicio2"
 
 on: 
+  push:
 
 jobs:
   checkout_code:
